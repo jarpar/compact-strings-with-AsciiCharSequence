@@ -1,6 +1,7 @@
 # compact-strings-with-AsciiCharSequence
 
 Code Challenge — Write a program
+
 Write a class named AsciiCharSequence that implements compact storage of ASCII-character sequences. Their codes can be stored in one single byte, unlike Unicode characters. Compared to the standard String class, your class will require twice less memory (before Java 9).
 
 The class AsciiCharSequence should:
